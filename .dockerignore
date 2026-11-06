@@ -1,0 +1,11 @@
+.git
+.gitignore
+*.md
+web/node_modules
+web/dist
+server/data
+server/*.db*
+*.exe
+*.log
+.gocache
+
